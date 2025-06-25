@@ -66,7 +66,7 @@ Para garantir que as decisões do modelo sejam transparentes e confiáveis, Sent
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/sentix.git
+git clone https://github.com/joaoclaudioprestes/sentix.git
 cd sentix
 
 # Instale as dependências
